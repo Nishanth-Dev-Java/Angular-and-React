@@ -13,7 +13,7 @@ body{
 	height: 90%;
 	background-color: #ffffff;
     border-radius: 25px;
-    box-shadow: 0px 10px 20px red;
+    box-shadow: 5px 20px 30px paleturquoise;
 }
 
 .Header{
@@ -30,6 +30,7 @@ body{
 	font-family: 'Open Sans';
 	font-weight: 700;
 	color: #2F3841;
+	background-color: #1687d9;
 }
 
 .Action{
@@ -54,8 +55,9 @@ body{
 	text-align: center;
 }
 .about{
-	height: 100%;
-	width: 24%;
+	height: 35%;
+	width: 15;
+	background-color: yellow;
 }
 .title{
 	padding-top: 10px;
@@ -180,4 +182,5 @@ hr{
 	font-family: 'sans-serif';
 	font-weight: 600;
 	color: #202020;
+	background-color: paleturquoise;
 }
