@@ -7,10 +7,13 @@
 # documentation.
 
 name: Java CI with Maven
-
 on:
+  label:
+    types:
+      - created
   push:
-    branches: [ "main" ]
+    branches:
+      - main
   pull_request:
     branches: [ "main" ]
 
