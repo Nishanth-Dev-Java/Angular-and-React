@@ -14,7 +14,7 @@ class Bubble {
          int n=a.length;
          for(int i=0;i<n;++i)
          System.out.print(a[i]+"");
-         System.out.println("Test 123456");
+         System.out.printlnsa("Test 123456");
      }
      public static void main (String[]args) {
          Bubble ob=new Bubble();
